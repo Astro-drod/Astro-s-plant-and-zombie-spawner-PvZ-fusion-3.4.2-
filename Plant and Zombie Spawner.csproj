@@ -1,0 +1,71 @@
+<Project Sdk="Microsoft.NET.Sdk">
+	<PropertyGroup>
+		<TargetFramework>net6.0</TargetFramework>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<Nullable>disable</Nullable>
+		<RootNamespace>Plant_and_Zombie_Spawner</RootNamespace>
+		<AssemblyName>Plant_and_Zombie_Spawner</AssemblyName>
+		<LangVersion>latest</LangVersion>
+		<AllowUnsafeBlocks>True</AllowUnsafeBlocks>
+		<EnableDefaultCompileItems>false</EnableDefaultCompileItems>
+		<IsPackable>false</IsPackable>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<Reference Include="Assembly-CSharp">
+			<HintPath>C:\Users\Hamza Kerem\Downloads\PvZF.3.4.2.Multi-lang.Public.Beta.hotfix.2.By.Blooms\Game Files\MelonLoader\Il2CppAssemblies\Assembly-CSharp.dll</HintPath>
+		</Reference>
+		<Reference Include="Il2CppMono.Security">
+			<HintPath>C:\Users\Hamza Kerem\Downloads\PvZF.3.4.2.Multi-lang.Public.Beta.hotfix.2.By.Blooms\Game Files\MelonLoader\Il2CppAssemblies\Il2CppMono.Security.dll</HintPath>
+		</Reference>
+		<Reference Include="Il2Cppmscorlib">
+			<HintPath>C:\Users\Hamza Kerem\Downloads\PvZF.3.4.2.Multi-lang.Public.Beta.hotfix.2.By.Blooms\Game Files\MelonLoader\Il2CppAssemblies\Il2Cppmscorlib.dll</HintPath>
+		</Reference>
+		<Reference Include="Il2CppSystem.Configuration">
+			<HintPath>C:\Users\Hamza Kerem\Downloads\PvZF.3.4.2.Multi-lang.Public.Beta.hotfix.2.By.Blooms\Game Files\MelonLoader\Il2CppAssemblies\Il2CppSystem.Configuration.dll</HintPath>
+		</Reference>
+		<Reference Include="Il2CppSystem.Core">
+			<HintPath>C:\Users\Hamza Kerem\Downloads\PvZF.3.4.2.Multi-lang.Public.Beta.hotfix.2.By.Blooms\Game Files\MelonLoader\Il2CppAssemblies\Il2CppSystem.Core.dll</HintPath>
+		</Reference>
+		<Reference Include="Il2CppSystem">
+			<HintPath>C:\Users\Hamza Kerem\Downloads\PvZF.3.4.2.Multi-lang.Public.Beta.hotfix.2.By.Blooms\Game Files\MelonLoader\Il2CppAssemblies\Il2CppSystem.dll</HintPath>
+		</Reference>
+		<Reference Include="Il2CppSystem.Xml">
+			<HintPath>C:\Users\Hamza Kerem\Downloads\PvZF.3.4.2.Multi-lang.Public.Beta.hotfix.2.By.Blooms\Game Files\MelonLoader\Il2CppAssemblies\Il2CppSystem.Xml.dll</HintPath>
+		</Reference>
+		<Reference Include="Il2Cpp__Generated">
+			<HintPath>C:\Users\Hamza Kerem\Downloads\PvZF.3.4.2.Multi-lang.Public.Beta.hotfix.2.By.Blooms\Game Files\MelonLoader\Il2CppAssemblies\Il2Cpp__Generated.dll</HintPath>
+		</Reference>
+		<Reference Include="UnityEngine.CoreModule">
+			<HintPath>C:\Users\Hamza Kerem\Downloads\PvZF.3.4.2.Multi-lang.Public.Beta.hotfix.2.By.Blooms\Game Files\MelonLoader\Il2CppAssemblies\UnityEngine.CoreModule.dll</HintPath>
+		</Reference>
+		<Reference Include="UnityEngine">
+			<HintPath>C:\Users\Hamza Kerem\Downloads\PvZF.3.4.2.Multi-lang.Public.Beta.hotfix.2.By.Blooms\Game Files\MelonLoader\Il2CppAssemblies\UnityEngine.dll</HintPath>
+		</Reference>
+		<Reference Include="UnityEngine.IMGUIModule">
+			<HintPath>C:\Users\Hamza Kerem\Downloads\PvZF.3.4.2.Multi-lang.Public.Beta.hotfix.2.By.Blooms\Game Files\MelonLoader\Il2CppAssemblies\UnityEngine.IMGUIModule.dll</HintPath>
+		</Reference>
+		<Reference Include="UnityEngine.InputLegacyModule">
+			<HintPath>C:\Users\Hamza Kerem\Downloads\PvZF.3.4.2.Multi-lang.Public.Beta.hotfix.2.By.Blooms\Game Files\MelonLoader\Il2CppAssemblies\UnityEngine.InputLegacyModule.dll</HintPath>
+		</Reference>
+		<Reference Include="UnityEngine.InputModule">
+			<HintPath>C:\Users\Hamza Kerem\Downloads\PvZF.3.4.2.Multi-lang.Public.Beta.hotfix.2.By.Blooms\Game Files\MelonLoader\Il2CppAssemblies\UnityEngine.InputModule.dll</HintPath>
+		</Reference>
+		<Reference Include="UnityEngine.UI">
+			<HintPath>C:\Users\Hamza Kerem\Downloads\PvZF.3.4.2.Multi-lang.Public.Beta.hotfix.2.By.Blooms\Game Files\MelonLoader\Il2CppAssemblies\UnityEngine.UI.dll</HintPath>
+		</Reference>
+		<Reference Include="MelonLoader">
+			<HintPath>C:\Users\Hamza Kerem\Downloads\PvZF.3.4.2.Multi-lang.Public.Beta.hotfix.2.By.Blooms\Game Files\MelonLoader\net6\MelonLoader.dll</HintPath>
+		</Reference>
+		<Reference Include="0Harmony">
+			<HintPath>C:\Users\Hamza Kerem\Downloads\PvZF.3.4.2.Multi-lang.Public.Beta.hotfix.2.By.Blooms\Game Files\MelonLoader\net6\0Harmony.dll</HintPath>
+		</Reference>
+		<Reference Include="Il2CppInterop.Runtime">
+			<HintPath>C:\Users\Hamza Kerem\Downloads\PvZF.3.4.2.Multi-lang.Public.Beta.hotfix.2.By.Blooms\Game Files\MelonLoader\net6\Il2CppInterop.Runtime.dll</HintPath>
+		</Reference>
+	</ItemGroup>
+
+	<ItemGroup>
+		<Compile Include="Core.cs" />
+	</ItemGroup>
+</Project>
