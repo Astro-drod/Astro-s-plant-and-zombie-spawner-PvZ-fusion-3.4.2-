@@ -5,7 +5,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-// İŞTE SENİN İMZAN BURADA! (Mod Adı: Astro Spawner, Yapımcı: Astro)
+
 [assembly: MelonInfo(typeof(Plant_and_Zombie_Spawner.Core), "Astro Spawner", "23.0.0", "Astro", null)]
 [assembly: MelonGame("LanPiaoPiao", "PlantsVsZombiesRH")]
 
