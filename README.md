@@ -8,9 +8,9 @@ btw this mode languange is turkish im gonna give the codes you can make languang
 
 Astro Spawner is the ultimate, fastest, and smartest sandbox spawner mod for PvZ Fusion. It allows you to instantly find and spawn any plant or zombie (including hidden level 10000+ fusions and bosses) right on the battlefield!
 
-## ✨ Features (Özellikler)
-* 🔠 **Alphabetical Teleport (Harf Motoru):** Press any letter key (e.g., 'M') to instantly jump to plants starting with that letter! Press repeatedly to cycle through them.
-* 🧹 **Smart Clean Names (İsim Temizleyici):** Automatically cleans up internal machine code names (e.g., `TitanGatlingPeaTurret` becomes `Titan Gatling Pea Turret`).
+## ✨ Features 
+* 🔠 **Alphabetical Teleport :** Press any letter key (e.g., 'M') to instantly jump to plants starting with that letter! Press repeatedly to cycle through them.
+* 🧹 **Smart Clean Names :** Automatically cleans up internal machine code names (e.g., `TitanGatlingPeaTurret` becomes `Titan Gatling Pea Turret`).
 * 🚀 **Deep Scan:** The mod scans up to 10,000 IDs and only shows valid, existing plants/zombies. No more empty IDs!
 * 📺 **On-Screen UI:** See the previous, current, and next plants in a sleek scrolling wheel on your screen.
 
