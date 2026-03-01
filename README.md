@@ -28,4 +28,4 @@ Astro Spawner is the ultimate, fastest, and smartest sandbox spawner mod for PvZ
 5. Launch the game and enjoy the chaos
 (plants name can be diffrerent you need to find them)
 ---
-*Created by Astro.*
+*Created by Astro(hamza kerem).*
