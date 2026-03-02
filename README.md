@@ -10,7 +10,6 @@ Astro Spawner is the ultimate, fastest, and smartest sandbox spawner mod for PvZ
 
 ## ✨ Features 
 * 🔠 **Alphabetical Teleport :** Press any letter key (e.g., 'M') to instantly jump to plants starting with that letter! Press repeatedly to cycle through them.
-* 🧹 **Smart Clean Names :** Automatically cleans up internal machine code names (e.g., `TitanGatlingPeaTurret` becomes `Titan Gatling Pea Turret`).
 * 🚀 **Deep Scan:** The mod scans up to 10,000 IDs and only shows valid, existing plants/zombies. No more empty IDs!
 * 📺 **On-Screen UI:** See the previous, current, and next plants in a sleek scrolling wheel on your screen.
 
@@ -18,7 +17,7 @@ Astro Spawner is the ultimate, fastest, and smartest sandbox spawner mod for PvZ
 * **[ TAB ]** - Switch between Plant Mode and Zombie Mode. 
 * **[ A-Z Keys ]** - Press a letter to jump to a plant/zombie. 
 * **[ Arrow Keys ]** - Scroll through the list. 
-* **[ LEFT SHIFT ]** - Spawn the selected plant/zombie at your mouse cursor! (Fare imlecinin olduğu yere anında diker/çıkarır).
+* **[ LEFT SHIFT ]** - Spawn the selected plant/zombie at your mouse cursor!.
 
 ## 🛠️ Installation 
 1. Make sure you have **MelonLoader** installed for your game.
@@ -26,7 +25,7 @@ Astro Spawner is the ultimate, fastest, and smartest sandbox spawner mod for PvZ
 3. Download the latest `Plant_and_Zombie_Spawner.dll` file.
 4. Place the `.dll` file into your game's `Mods` folder.
 5. Launch the game and enjoy the chaos
-# 🚀 Astro Ultimate Spawner v100.0.2 (The Final Update)
+# 🚀 Astro Ultimate Spawner v1.0.1
 
 Welcome to the ultimate version of the Astro Spawner! This update brings massive performance boosts and exact Almanac names.
 
