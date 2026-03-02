@@ -26,6 +26,18 @@ Astro Spawner is the ultimate, fastest, and smartest sandbox spawner mod for PvZ
 3. Download the latest `Plant_and_Zombie_Spawner.dll` file.
 4. Place the `.dll` file into your game's `Mods` folder.
 5. Launch the game and enjoy the chaos
-(plants name can be diffrerent you need to find them)
+# 🚀 Astro Ultimate Spawner v100.0.2 (The Final Update)
+
+Welcome to the ultimate version of the Astro Spawner! This update brings massive performance boosts and exact Almanac names.
+
+## 📝 Update Log 
+* ⚡ **Instant Load :** The mod no longer scans 10,000 files! Thanks to Astro's custom ID mapping, the mod now loads in 0.001 seconds without freezing the game. (Oyunun açılışındaki donma tamamen çözüldü, özel ID haritası eklendi).
+* 🧹 **Smart Almanac Names :** Machine code names are now perfectly matched with the in-game Almanac (e.g., `CherryBomb` is now exactly `Cherry Bomb`).
+* 🎯 **Clean Database :** Empty IDs are completely removed. Only the actual 443 plants/fusions and zombies are listed!
+* 🛠️ **Code Optimization:** The background code has been heavily optimized for maximum stability and zero crashes.
+
+---
+*Note: If you want to use older versions (like v23.0.0), you can scroll down and download them from the previous releases!*
+
 ---
 *Created by Astro(hamza kerem).*
