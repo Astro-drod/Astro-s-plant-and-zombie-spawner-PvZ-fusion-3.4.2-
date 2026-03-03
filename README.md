@@ -25,9 +25,6 @@ Astro Spawner is the ultimate, fastest, and smartest sandbox spawner mod for PvZ
 3. Download the latest `Plant_and_Zombie_Spawner.dll` file.
 4. Place the `.dll` file into your game's `Mods` folder.
 5. Launch the game and enjoy the chaos
-# 🚀 Astro Ultimate Spawner v1.0.1
-
-Welcome to the ultimate version of the Astro Spawner! This update brings massive performance boosts and exact Almanac names.
 
 # 🚀 Astro Ultimate Spawner v2.0.0 - The Definitive Translation Update!
 
