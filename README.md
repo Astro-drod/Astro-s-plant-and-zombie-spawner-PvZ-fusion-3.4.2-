@@ -41,7 +41,4 @@ Welcome to the biggest update for the Astro Spawner! This release brings massive
 *Note: Looking for older versions? You can always scroll down and download previous releases below!*
 
 ---
-*Note: If you want to use older versions (like v23.0.0), you can scroll down and download them from the previous releases!*
-
----
 *Created by Astro(hamza kerem).*
