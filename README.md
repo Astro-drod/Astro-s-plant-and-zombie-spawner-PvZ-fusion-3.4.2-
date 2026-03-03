@@ -29,11 +29,19 @@ Astro Spawner is the ultimate, fastest, and smartest sandbox spawner mod for PvZ
 
 Welcome to the ultimate version of the Astro Spawner! This update brings massive performance boosts and exact Almanac names.
 
-## 📝 Update Log 
-* ⚡ **Instant Load :** The mod no longer scans 10,000 files! Thanks to Astro's custom ID mapping, the mod now loads in 0.001 seconds without freezing the game.
-* 🧹 **Smart Almanac Names :** Machine code names are now perfectly matched with the in-game Almanac (e.g., `CherryBomb` is now exactly `Cherry Bomb`).
-* 🎯 **Clean Database :** Empty IDs are completely removed. Only the actual 443 plants/fusions and zombies are listed!
-* 🛠️ **Code Optimization:** The background code has been heavily optimized for maximum stability and zero crashes.
+# 🚀 Astro Ultimate Spawner v2.0.0 - The Definitive Translation Update!
+
+Welcome to the biggest update for the Astro Spawner! This release brings massive performance optimizations, perfect name syncing, and true plug-and-play convenience. No more external text files, no more lag.
+
+## 📝 Update Log
+* ⚡ **Zero-Delay Loading:** The mod no longer scans 10,000 IDs on startup. By utilizing a custom, precise ID mapping system, the spawner now loads instantly (0.001s) with zero game freezes.
+* 📚 **100% Accurate Community Translations:** Fully integrated the popular English translation names (shoutout to the Teyliu translation project). You will now see iconic names like **Cherizarous**, **Doomzilla**, **Phoenix Threepeater**, and the entire **Apeacalypse** series directly in your Spawner menu!
+* 🧟 **Bosses, Towers & IFVs Included:** Special names for Bosses (Dr. Zomboss, Mutant Gargantuar), IFV vehicles, and Tower plants have been manually mapped and corrected.
+* 🧹 **Smart Auto-Cleaner:** Any remaining unmapped fusions are automatically formatted into clean, properly spaced English (e.g., `FireCaltrop` becomes `Fire Caltrop`).
+* ⚙️ **Ultimate Plug & Play:** The external `.txt` dictionary system has been completely removed. Everything is now built deep into the mod. Just drop the `.dll` into your `Mods` folder and unleash chaos!
+
+---
+*Note: Looking for older versions? You can always scroll down and download previous releases below!*
 
 ---
 *Note: If you want to use older versions (like v23.0.0), you can scroll down and download them from the previous releases!*
