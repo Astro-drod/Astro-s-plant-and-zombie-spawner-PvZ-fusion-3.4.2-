@@ -30,12 +30,24 @@ Astro Spawner is the ultimate, fastest, and smartest sandbox spawner mod for PvZ
 
 Welcome to the biggest update for the Astro Spawner! This release brings massive performance optimizations, perfect name syncing, and true plug-and-play convenience. No more external text files, no more lag.
 
-## 📝 Update Log
-* ⚡ **Zero-Delay Loading:** The mod no longer scans 10,000 IDs on startup. By utilizing a custom, precise ID mapping system, the spawner now loads instantly (0.001s) with zero game freezes.
-* 📚 **100% Accurate Community Translations:** Fully integrated the popular English translation names (shoutout to the Teyliu translation project). You will now see iconic names like **Cherizarous**, **Doomzilla**, **Phoenix Threepeater**, and the entire **Apeacalypse** series directly in your Spawner menu!
-* 🧟 **Bosses, Towers & IFVs Included:** Special names for Bosses (Dr. Zomboss, Mutant Gargantuar), IFV vehicles, and Tower plants have been manually mapped and corrected.
-* 🧹 **Smart Auto-Cleaner:** Any remaining unmapped fusions are automatically formatted into clean, properly spaced English (e.g., `FireCaltrop` becomes `Fire Caltrop`).
-* ⚙️ **Ultimate Plug & Play:** The external `.txt` dictionary system has been completely removed. Everything is now built deep into the mod. Just drop the `.dll` into your `Mods` folder and unleash chaos!
+# 🔍 Astro Ultimate Spawner v2.2.1 - The Smart Search Update!
+
+Welcome to the most advanced version of the Astro Spawner! We've listened to your feedback and completely overhauled how you find and spawn your favorite fusions. 
+
+## 📝 What's New in v2.2.1:
+* ⌨️ **New Smart Search Mode:** No more scrolling through hundreds of IDs! Press **ENTER** to toggle the new Search Mode. Type what you want (e.g., "Chompzilla" or "Apeacalypse"), and the mod will instantly find it for you. Press ENTER again to exit.
+* 📚 **The "True Ultimate" Dictionary:** Restored and perfected the full English community translation list. **Cherizarous**, **Chompzilla**, IFVs, Towers, and all Bosses are 100% synced and ready to spawn.
+* 🌍 **Full English UI:** The in-game mod overlay has been completely translated into English for the global community.
+* 🧹 **Auto-Cleaner Engine:** Any unknown or unmapped fusions are still automatically formatted into clean, readable text (e.g., `FireMelon` becomes `Fire Melon`).
+* ⚡ **Zero-Lag Loading:** Retained the instant-load architecture. The game will never freeze when you open the mod.
+
+**How to use:**
+1. Press `TAB` to switch between Plant and Zombie modes.
+2. Press `ENTER` to open the Search Box and type your desired fusion.
+3. Press `LEFT SHIFT` to spawn it instantly!
+
+---
+*Just drop the `.dll` into your `Mods` folder and unleash the chaos! Let me know in the comments what you want to see next.*
 
 ---
 *Note: Looking for older versions? You can always scroll down and download previous releases below!*
